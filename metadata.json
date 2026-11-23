@@ -1,0 +1,8 @@
+{
+  "name": "SNC Whats App",
+  "description": "Advanced WhatsApp Business API messaging, bulk broadcast, and CRM platform powered by Google Drive, Google Sheets, and Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
